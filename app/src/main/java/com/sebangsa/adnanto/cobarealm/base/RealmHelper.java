@@ -87,9 +87,9 @@ public class RealmHelper {
                 .equalTo("id", id).findAll();
 
         realm.beginTransaction();
-        articleRealmResults.remove(0);
+//        articleRealmResults.remove(0);
         // articleRealmResults.removeLast();
-        articleRealmResults.clear();
+//        articleRealmResults.clear();
         articleRealmResults.deleteFromRealm(id);
         realm.commitTransaction();
     }
