@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">CobaRealm</string>
     <string name="status_output">Status Output…</string>
+    <string name="button_delete">Hapus</string>
+    <string name="button_save">Simpan</string>
+    <string name="hint_input_title">Masukan title</string>
+    <string name="hint_input_description">Masukan description</string>
 </resources>
