@@ -1,4 +1,4 @@
-package com.sebangsa.adnanto.cobarealm;
+package com.sebangsa.adnanto.cobarealm.activity;
 
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +8,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.facebook.stetho.Stetho;
+import com.sebangsa.adnanto.cobarealm.R;
 import com.sebangsa.adnanto.cobarealm.model.Cat;
 import com.sebangsa.adnanto.cobarealm.model.Dog;
 import com.sebangsa.adnanto.cobarealm.model.Person;
