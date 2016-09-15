@@ -154,6 +154,7 @@ public class MainActivity extends AppCompatActivity {
                 person.setId(1);
                 person.setName("Young Person");
                 person.setAge(14);
+                showStatus(person.getName() + " got youngest: " + person.getAge());
             }
         });
 
